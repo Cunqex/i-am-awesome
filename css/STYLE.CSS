@@ -1,0 +1,19 @@
+h1 
+{
+   color: blue;
+}
+
+h2 {color: green;}
+
+h3 {color: red}
+
+body
+{
+   background-color: lime;
+   background-image: url(../img/jo-bonten.jpg);
+ }
+
+#speciaal 
+{
+   border-color: red;
+}
